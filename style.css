@@ -1,0 +1,35 @@
+body{
+    background-image: url(naruto3.jpg);
+    color:mediumturquoise;
+    text-align: center;
+}
+
+ul{
+    margin-left: 0%;
+}
+
+ul li{
+    color: mediumvioletred;
+    display: inline-block;
+    margin: 1%;
+}
+
+h1{
+    color:aqua
+}
+
+p{
+    color:black;
+}
+
+.wrapper{
+
+}
+
+
+
+
+
+
+
+
